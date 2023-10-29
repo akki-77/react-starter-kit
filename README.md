@@ -1,4 +1,4 @@
-🚀 --  1st React Project  -- 🚀
+🚀 --  1st React App  -- 🚀
 
 🚀 -- Javascript Injection into HTML -- 🚀
 
